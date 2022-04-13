@@ -1,7 +1,7 @@
 Эксперемент
 | Tables                                                                                                                             | Are           | Cool  |
 | --------------- |:-------------:| -----:|
-|<img width=50/> col 3 is      | <img width=500/>right-aligned |<img width=500/> $1600 |
+|<img width=50/> col 3 is      | <img width=500/>right-aligned |<img width=1500/> $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 ## Описание наиболее интересных проектов в которых применил большенство полученых знаний во время обучения 
